@@ -1,0 +1,95 @@
+{
+    "combos": [
+        {
+            "name": "Hamburguesa Wondy's",
+            "price": 8.99,
+            "solo": 7.49,
+            "description": "Una hamburguesa con 1/4lb de carne, lechuga, tomate y la salsa especial Wondy's",
+            "img": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "name": "Hot Dog Wondy's",
+            "price": 5.99,
+            "solo": 4.49,
+            "description": "Salchicha de deliciosa carne de cerdo con las salsa honey mustard de la casa",
+            "img": "https://images.pexels.com/photos/4113456/pexels-photo-4113456.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "name": "Pollo a la Wondy's",
+            "price": 6.99,
+            "solo": 5.49,
+            "description": "Pollo crispy receta  original de Wondy's, sazonado con los ingredientes más frescos",
+            "img": "https://images.pexels.com/photos/60616/fried-chicken-chicken-fried-crunchy-60616.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        }
+    ],
+    "drinks":[
+        {
+            "name": "Limonada",
+            "flavors": [
+                "Lima",
+                "Fresa",
+                "Mango"
+            ],
+            "price": 4.99,
+            "description": "Refrescantes limonadas en variados sabores",
+            "img": "https://images.pexels.com/photos/1233319/pexels-photo-1233319.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "name": "Milkshake",
+            "flavors": [
+                "Fresa",
+                "Chocolate",
+                "Vainilla"
+            ],
+            "price": 6.99,
+            "description": "Deliciosas Malteadas en variados sabores",
+            "img": "https://images.pexels.com/photos/103566/pexels-photo-103566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "name": "Soda",
+            "flavors": [
+                "Coca Cola",
+                "Fresca",
+                "7 Up"
+            ],
+            "price": 3.99,
+            "description": "Refrescantes sodas en variados sabores",
+            "img": "https://images.pexels.com/photos/3008/drinks-supermarket-cans-beverage.jpg?auto=compress&cs=tinysrgb&w=600"
+        }
+    ],
+    "dessert":[
+        {
+            "name": "Cheesecake",
+            "flavors": [
+                "Maracuyá",
+                "Fresa",
+                "Oreo"
+            ],
+            "price": 8.69,
+            "description": "Delicioso Cheescake del dia en variados sabores",
+            "img": "https://images.pexels.com/photos/14107/pexels-photo-14107.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "name": "Tarta",
+            "flavors": [
+                "Manzana",
+                "Melocotón",
+                "Limón"
+            ],
+            "price": 9.50,
+            "description": "Deliciosa Tarta del dia en variados sabores",
+            "img": "https://images.pexels.com/photos/1157835/pexels-photo-1157835.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "name": "Strudel",
+            "flavors": [
+                "Piña",
+                "Manzana",
+                "Banana"
+            ],
+            "price": 4.99,
+            "description": "Delicioso Strudel del dia en variados sabores",
+            "img": "https://cdn.pixabay.com/photo/2018/09/24/17/04/strudel-3700361_960_720.jpg"
+        }
+    ]
+}

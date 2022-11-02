@@ -1,0 +1,83 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+ }
+
+ .contador{
+   border-radius: 100%;
+   font-size: 11px;
+   background-color: white;
+   color:red;
+   position: absolute;
+   padding: 0 5px;
+   top: 12px;
+   right: 6%;
+ }
+
+ .navbar-brand{
+    color:yellow;
+    font-size: 40px;
+    font-style: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+ .navbar-brand span{
+    color:red
+ }
+ .title{
+    margin-bottom: 60px;
+    font-weight: 800;
+    text-align: center;
+    background-color: rgb(203, 203, 203);
+    border: 1px solid #000;
+ }
+
+ #combos,#drinks,#desserts,#search{
+   padding-top: 86px;
+   background-color:rgba(255, 0, 0, 0.614);
+ }
+
+
+ .items-area{
+    padding-left: 50px; 
+    padding-right: 50px;    
+    min-height: calc(100vh - 86px);
+    display: grid;
+    justify-content: space-around;
+    grid-template-columns: auto auto auto ;
+    gap: 10px;
+ }
+
+ .items-area img{
+   height: 350px;
+ }
+
+ .card{
+    height: 475px;
+    width: 18em;
+    padding: 2px;
+ }
+ 
+.card-price{
+    text-align: right;
+    color: red;
+    font-size: 18px;
+    font-weight: 700;
+}
+ .card-selection{
+    margin: 0 0 20px 0;
+    display: flex;
+    flex-direction: column;
+ }
+
+ .modal-header,.modal-footer{
+   background-color: #000;
+   margin: 1px;
+   color: white
+ }
+
+ .modal-body{
+  background-color:  rgba(255, 0, 0, 0.614);
+  margin:0 2px;
+ }
